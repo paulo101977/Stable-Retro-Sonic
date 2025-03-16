@@ -5,7 +5,7 @@ This repository contains the code for training an AI to play Sonic the Hedgehog 
 [![Watch the video](https://img.youtube.com/vi/4mnWYvOmSmo/maxresdefault.jpg)](https://www.youtube.com/watch?v=4mnWYvOmSmo)
 
 🚀 Features
-Environment: Uses stle-retro to emulate Sonic the Hedgehog.
+Environment: Uses stable-retro to emulate Sonic the Hedgehog.
 Algorithm: Implements PPO for policy optimization.
 Frame Processing: Applies grayscale conversion, downscaling, and frame stacking.
 Action Space: Custom action space designed for efficient movement.
